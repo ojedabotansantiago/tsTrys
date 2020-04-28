@@ -1,0 +1,17 @@
+{
+  "name": "tscourse",
+  "version": "1.0.0",
+  "description": "course of ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "santiago ojeda",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "npx": "^10.2.2"
+  }
+}
